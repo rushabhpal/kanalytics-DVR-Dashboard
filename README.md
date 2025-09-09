@@ -24,10 +24,7 @@ This app was developed to save time for employees and managers by automating the
 
 ---
 
-## 📸 Screenshots
-_Add screenshots here after pushing your code._  
-For example:
-![Dashboard Screenshot](docs/dashboard-screenshot.png)
+
 
 ---
 Notes :
