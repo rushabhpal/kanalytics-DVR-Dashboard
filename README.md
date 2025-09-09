@@ -1,4 +1,5 @@
 # Kanalytics DVR Dashboard 📺
+<img width="1280" height="576" alt="Screenshot 2025-09-09 171102" src="https://github.com/user-attachments/assets/40f723bd-eea7-4d40-bc5d-311900b0d672" />
 
 An internal dashboard built for monitoring DVR slot data in real time.  
 This app was developed to save time for employees and managers by automating the manual process of checking whether slot data has been downloaded, its file size, and whether it is corrupted.
